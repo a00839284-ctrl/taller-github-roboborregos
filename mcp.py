@@ -1,0 +1,1 @@
+print("Un MCP es una herramienta que nos sirve apara acceder a los repositorios de GitHub desde la terminal sin necesidad de abrir la página web de GitHub")
